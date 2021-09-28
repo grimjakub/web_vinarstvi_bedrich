@@ -1,0 +1,104 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/alessadil/Desktop/BEDRICH/Etikety/out/Vinarstvi_Bedrich_web Folder/Document fonts/AdobeFnt22.lst
+FileLength:2329
+FileModTime:653996157
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNowText-Bold
+FamilyName:Helvetica Now Text 
+StyleName:Bold
+MenuName:HelveticaNowText Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:HelveticaNowText-Bold
+WritingScript:Roman
+OutlineFileName:/Users/alessadil/Desktop/BEDRICH/Etikety/out/Vinarstvi_Bedrich_web Folder/Document fonts/HelveticaNowText-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:126036
+FileModTime:577646112
+NameArray:0,Mac,4,HelveticaNowText-Bold
+NameArray:0,Win,1,HelveticaNowText Bold
+NameArray:0,Win,16,Helvetica Now Text 
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNowText-Regular
+FamilyName:Helvetica Now Text 
+StyleName:Regular
+MenuName:HelveticaNowText Regular
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:HelveticaNowText-Regular
+WritingScript:Roman
+OutlineFileName:/Users/alessadil/Desktop/BEDRICH/Etikety/out/Vinarstvi_Bedrich_web Folder/Document fonts/HelveticaNowText-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:126076
+FileModTime:577646118
+NameArray:0,Mac,4,HelveticaNowText-Regular
+NameArray:0,Win,1,HelveticaNowText Regular
+NameArray:0,Win,16,Helvetica Now Text 
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Bold
+FamilyName:Poppins
+StyleName:Bold
+MenuName:Poppins
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Poppins Bold
+WritingScript:Roman
+OutlineFileName:/Users/alessadil/Desktop/BEDRICH/Etikety/out/Vinarstvi_Bedrich_web Folder/Document fonts/Poppins-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:153900
+FileModTime:454975200
+NameArray:0,Win,1,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Light
+FamilyName:Poppins
+StyleName:Light
+MenuName:Poppins Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Poppins Light
+WritingScript:Roman
+OutlineFileName:/Users/alessadil/Desktop/BEDRICH/Etikety/out/Vinarstvi_Bedrich_web Folder/Document fonts/Poppins-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:159848
+FileModTime:454975200
+NameArray:0,Win,1,Poppins Light
+NameArray:0,Win,16,Poppins
+%EndFont
+
