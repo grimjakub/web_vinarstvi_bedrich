@@ -183,7 +183,7 @@ button {
 
 .main-item-logo img {
     /* flex: 0 0 100%; */
-    max-width: 30%;
+    max-width: 500px;
     padding: 15px;
     /* background-color: #912020; */
     display: block;
